@@ -1,5 +1,5 @@
 <p align="center" style="width:100vw">
-  <img src="https://media.giphy.com/media/95zKr42Olp77Wwochu/giphy.gif">
+  <img src="https://media.giphy.com/media/fBirx93UbIvZqSf0MR/giphy.gif">
 </p>
 <h3 align="center">I'm a Passionate Software Engineer, Curious to Learn</h3>
 <h3 align="center">Let's learn together in a whole new ways!</h3>

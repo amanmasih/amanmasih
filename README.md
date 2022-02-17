@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="width:100vw">
   <img src="https://media.giphy.com/media/95zKr42Olp77Wwochu/giphy.gif">
 </p>
 <h1 align="center">Hey 👋, I'm Aman Masih</h1>

@@ -1,12 +1,12 @@
 <h1 align="center">Hey 👋, I'm Aman Masih</h1>
-<h3 align="center">I'm a Passionate Software Engineer</h3>
-<h3 align="center">I'm a Passionate Software Engineer</h3>
+<h3 align="center">I'm a Passionate Software Engineer, Curious to Learn</h3>
+<h3 align="center">Let's learn together in a whole new ways!</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" style="boder-radius:25px;" src = "https://media-exp1.licdn.com/dms/image/C4E03AQF7f97Pg6OR4Q/profile-displayphoto-shrink_200_200/0/1593471036890?e=1650499200&v=beta&t=9Af_NvOykD3Or2_RP8BodfQcN423FXqFvNa_aukee7Y"/>
-- 🔭 I’m currently working on **Improvising Persona**
+<img align="right" style="boder-radius:25px;" src = ""/>
+- 🔭 I’m currently working on Improvising Persona
 
-- 🌱 I’m currently learning **Java, Angular,Spring MVC,SpringBoot**
+- 🌱 I’m currently learning **Java 8, Spring MVC, SpringBoot**
 
 - 👨‍💻 Some of my projects are available at [GitLab](https://myrepos.stackroute.niit.com/678119_Aman)
 

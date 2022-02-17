@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **anshumanmasih18@gmail.com**
 
+- 📫 My Socials **anshumanmasih18@gmail.com** 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-masih-05b05815a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-masih-05b05815a" height="30" width="40" /></a>

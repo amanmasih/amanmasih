@@ -4,7 +4,6 @@
  
 </p>
    </div>
-<h3 align="center">I'm a Passionate Software Engineer, Curious to Learn</h3>
 <h3 align="center">Let's learn together in a whole new ways!</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

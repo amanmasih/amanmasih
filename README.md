@@ -3,7 +3,7 @@
 <h3 align="center">Let's learn together in a whole new ways!</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" style="boder-radius:25px;" src = ""/>
+<img align="right" style="boder-radius:25px;" src = "https://media2.giphy.com/media/InG7YDwadoTQY/200.webp?cid=ecf05e47xf5agrdljlh1gzk3i14niu58fyjl3hfyldb0tr7u&rid=200.webp&ct=g"/>
 - 🔭 I’m currently working on Improvising Persona
 
 - 🌱 I’m currently learning **Java 8, Spring MVC, SpringBoot**

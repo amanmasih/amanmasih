@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+</p>
 <h1 align="center">Hey 👋, I'm Aman Masih</h1>
 <h3 align="center">I'm a Passionate Software Engineer, Curious to Learn</h3>
 <h3 align="center">Let's learn together in a whole new ways!</h3>

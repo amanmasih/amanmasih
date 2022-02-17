@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **anshumanmasih18@gmail.com**
 
-- 📫 My Socials **anshumanmasih18@gmail.com** 
+- 📫 My Socials **[LinkTree](https://linktr.ee/Amanmasih)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

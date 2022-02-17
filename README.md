@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
+  <img src="https://www.canva.com/design/DAE4m9xXy0I/share/preview?token=mvlX06KjLrt2S3kuSgzbjg&role=EDITOR&utm_content=DAE4m9xXy0I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
 </p>
 <h1 align="center">Hey 👋, I'm Aman Masih</h1>
 <h3 align="center">I'm a Passionate Software Engineer, Curious to Learn</h3>

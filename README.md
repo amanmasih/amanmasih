@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAE4m9xXy0I/CWlFNBEfZSmDPQ7O1xphxw/watch?utm_content=DAE4m9xXy0I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+  <img src="https://media.giphy.com/media/95zKr42Olp77Wwochu/giphy.gif">
 </p>
 <h1 align="center">Hey 👋, I'm Aman Masih</h1>
 <h3 align="center">I'm a Passionate Software Engineer, Curious to Learn</h3>

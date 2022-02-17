@@ -1,7 +1,9 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 <p align="center" >
-  <img src="">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/Iwl6d3SRzXsmA4BCwb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Iwl6d3SRzXsmA4BCwb">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/Iwl6d3SRzXsmA4BCwb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed">
+ 
 </p>
+   </div>
 <h3 align="center">I'm a Passionate Software Engineer, Curious to Learn</h3>
 <h3 align="center">Let's learn together in a whole new ways!</h3>
 

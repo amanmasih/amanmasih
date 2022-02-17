@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Angular,Spring MVC,SpringBoot**
 
-- 👨‍💻 Some of my projects are available at [https://myrepos.stackroute.niit.com/678119_Aman](GitLab)
+- 👨‍💻 Some of my projects are available at [GitLab](https://myrepos.stackroute.niit.com/678119_Aman)
 
 - 📫 How to reach me **anshumanmasih18@gmail.com**
 

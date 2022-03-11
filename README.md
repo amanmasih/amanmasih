@@ -10,7 +10,7 @@
 <img align="right" style="boder-radius:25px;" src = "https://media2.giphy.com/media/InG7YDwadoTQY/200.webp?cid=ecf05e47xf5agrdljlh1gzk3i14niu58fyjl3hfyldb0tr7u&rid=200.webp&ct=g"/>
 - 🔭 I’m currently working on Improvising Persona
 
-- 🌱 I’m currently learning **Java 8, Spring MVC, SpringBoot**
+- 🌱 I’m currently **Revamping and learning to delve in new technologies**
 
 - 👨‍💻 Some of my projects are available at [GitLab](https://myrepos.stackroute.niit.com/678119_Aman)
 

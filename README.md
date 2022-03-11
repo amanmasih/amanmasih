@@ -30,7 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanmasih&show_icons=true&locale=en&layout=compact&&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="amanmasih" /></p>
 
 <br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amanmasih&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="amanmasih" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=amanmasih&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="amanmasih" /></p>
 
 
 <h3 align="center">Thanks For Visiting...</h3>

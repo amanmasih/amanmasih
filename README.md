@@ -34,4 +34,4 @@
 
 
 <h3 align="center">Thanks For Visiting...</h3>
-![alt text](bottom.svg)
+![alt text](./img/bottom.svg)

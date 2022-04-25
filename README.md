@@ -31,6 +31,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanmasih&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="amanmasih" /></p>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+  <path fill="#273036" fill-opacity="1" d="M0,192L102.9,32L205.7,32L308.6,64L411.4,256L514.3,160L617.1,288L720,96L822.9,256L925.7,96L1028.6,192L1131.4,224L1234.3,32L1337.1,96L1440,160L1440,320L1337.1,320L1234.3,320L1131.4,320L1028.6,320L925.7,320L822.9,320L720,320L617.1,320L514.3,320L411.4,320L308.6,320L205.7,320L102.9,320L0,320Z"></path>
+</svg>
+
 <h3 align="center">Thanks For Visiting...</h3>
 
 ![alt text](./img/bottom.svg)

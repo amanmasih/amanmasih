@@ -1,8 +1,6 @@
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 <p align="center" >
-<!--   <img src="https://media.giphy.com/media/Iwl6d3SRzXsmA4BCwb/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"> -->
-<!--  <iframe src="https://giphy.com/embed/ugdq2yFr2WsdW3v0B7" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ugdq2yFr2WsdW3v0B7">via GIPHY</a></p> -->
- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ugdq2yFr2WsdW3v0B7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ugdq2yFr2WsdW3v0B7">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/ugdq2yFr2WsdW3v0B7/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed">
 </p>
    </div>
 <h3 align="center">Let's Build A better World! </h3>

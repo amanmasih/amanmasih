@@ -10,7 +10,7 @@
 <img align="right" style="boder-radius:25px;" src = "https://media2.giphy.com/media/InG7YDwadoTQY/200.webp?cid=ecf05e47xf5agrdljlh1gzk3i14niu58fyjl3hfyldb0tr7u&rid=200.webp&ct=g"/>
 - 🔭 I'm currently working on Improvising Persona
 
-- 🌱 I’m currently **Revamping and learning to delve in new technologies**
+- 🌱 I’m currently **Revamping with Detox xD**
 
 - 👨‍💻 Some of my projects are available at [GitLab](https://myrepos.stackroute.niit.com/678119_Aman)
 
@@ -18,7 +18,7 @@
 
 - 📫 My Socials **[LinkTree](https://linktr.ee/Amanmasih)** 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman-masih-05b05815a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-masih-05b05815a" height="30" width="40" /></a>
 <a href="https://instagram.com/amanamasih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanamasih" height="30" width="40" /></a>

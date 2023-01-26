@@ -1,6 +1,8 @@
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;">
 <p align="center" >
-  <img src="https://media.giphy.com/media/ugdq2yFr2WsdW3v0B7/giphy.gif" 
+  
+  
+  <img src="https://media.giphy.com/media/mrNCOBfH35mLCx5Sqm/giphy.gif" 
        width="100%"
      height="100%" 
        style="position:absolute" frameBorder="0" class="giphy-embed">
